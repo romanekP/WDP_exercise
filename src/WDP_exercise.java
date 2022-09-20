@@ -13,11 +13,10 @@ public class WDP_exercise {
             System.out.println(name + " " + lastname +
                     "You're too young to enter :-(");
         }
-        if (Age==21){
+        if (Age == 21) {
             System.out.println(name + " " + lastname +
                     " Congratulations! Barely, barely... ");
-        }
-        else {
+        } else {
             System.out.println(name + " " + lastname + " You can enter!");
         }
 
